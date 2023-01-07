@@ -1,0 +1,133 @@
+ #cabecera {
+   background-image:url('../images/log1.png');
+   background-position:left;
+   background-repeat:no-repeat;
+   background-color:#000026;
+   border-bottom: 10px solid #cf8a05;
+   padding:15px 20px;
+   display: block;
+   
+}
+#FotoC {
+    margin-right: 30px;
+    width: 20%;
+   display: float;
+   
+	 }
+
+#name {
+  font-family: "open_sansregular",Helvetica,Arial,sans-serif;
+  width: 50%;
+  text-align:center;
+  color: #fff;
+  float:left;
+ }
+
+#name h1 {
+    font-size: 15px;
+    font-weight: 500;
+  
+}
+#name h2 {
+   margin-top: 15px;
+   font-size: 10px;
+   
+}
+
+
+
+.sectionTitle{
+   
+   font-size: 0.8em;
+}
+#contactDetails ul {
+
+  text-align: right;
+   font-size: 0.6em;
+  
+}
+
+
+section {
+ display: block;
+   
+}
+.sectionTitle {
+  color: #fff;
+  width: 100%;
+   background-color: #cf8a07;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+   border-bottom-left-radius:5px;
+   border-bottom-right-radius:5px;
+}
+.sectionContent{
+ /* color: #000026; */
+width:100%;
+ font-size: 0.7em;
+
+
+}
+
+.favoritos {
+   border-top:none;
+   display: block;
+}
+.titleFavoritos
+{
+   border:solid 2px  #cf8a05;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+   border-bottom-left-radius:5px;
+   border-bottom-right-radius:5px;
+   color: #fff;
+   text-align: center;
+   background-color: #000026;
+   background-image: linear-gradient(to left bottom, #98A3D8 0%, #000026 94%);
+   width: 100%;
+}
+
+
+.itemsFavoritos{
+   width: 100%;
+   display: block;
+   padding: 0px;
+   border: none;
+   text-align: center;
+
+ 
+}
+
+.itemsVideos{
+   width: 100%;
+   display: block;
+   padding: 0;
+   border: none;
+   text-align: center;
+ }
+
+ h1{
+    font-size: 1.1em;
+}
+
+h2 {
+
+  font-size: 0.9em;
+}
+
+div > h3{
+    font-size: 0.8em;
+    color: #fff;
+    background-color: #cf8a07;
+	 border-top-left-radius:5px;
+   border-top-right-radius:5px;
+   border-bottom-left-radius:5px;
+   border-bottom-right-radius:5px;
+}
+.enlaces {
+
+  text-align: left;
+   font-size: 0.6em;
+
+}
+
